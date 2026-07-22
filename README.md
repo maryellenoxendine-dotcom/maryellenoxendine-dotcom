@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/maryellenoxendine-dotcom.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/maryellenoxendine-dotcom.png" width="150" style="border-radius:50%;border:4px solid #cf222e"/>
 
 # Hi there, I'm Mary Ellen Oxendine
 
@@ -24,7 +24,7 @@ I am the Librarian for My Computer Career. I love to share our resources with ou
 
 ## Skills Learned
 
-🛠️ Other Skills: ![Gemini](https://img.shields.io/badge/Gemini-0969da?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT-0969da?style=flat-square)
+🛠️ Other Skills: ![Gemini](https://img.shields.io/badge/Gemini-cf222e?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT-cf222e?style=flat-square)
 
 ---
 
